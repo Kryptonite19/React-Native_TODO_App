@@ -4,7 +4,7 @@ A simple TODO App with CRUD functionality
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the NodeJs v16
 
 ```bash
 npm install
